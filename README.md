@@ -1,2 +1,1 @@
-# RPM-DNN
-An experiment for solving RPM. Multiple approaches will be implemented including CNN, ViTs, and traditional ML algorithms 
+This repo contains an attempt of implementing Policy Gradient methods for time series predictions. 
