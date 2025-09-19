@@ -1,5 +1,16 @@
 
-Loss Function for Policy Gradient: 
+In this excersize we will be comparing return values between two Rl algorithms. A traditional Q-learning 
+implementation with a Q-table vs Monte Carlo Policy Gradient(REINFORCE). 
+
+![img.png](img.png)
+
+image1 - Simon J.D.Prince. Reinforce description from Understanding Deep Learning. October 23, 2023 
+
+THe initial implementation of REINFORCE used in this experiment was obtained from: 
+https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#implementing-the-simplest-policy-gradient
+
+
+__Loss Function for Policy Gradient Notes:__ 
 
 Even though we describe this as a loss function, it is not a loss function in the typical sense from supervised learning. There are two main differences from standard loss functions.
 
