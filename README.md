@@ -1,6 +1,5 @@
 
-In this excersize we will be comparing return values between two Rl algorithms. A traditional Q-learning 
-implementation with a Q-table vs Monte Carlo Policy Gradient(REINFORCE). 
+In this excersize we will be comparing return values between two Rl algorithms. Dyna-Q vs Monte Carlo Policy Gradient. 
 
 ![img.png](img.png)
 
