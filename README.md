@@ -4,7 +4,7 @@ implementation with a Q-table vs Monte Carlo Policy Gradient(REINFORCE).
 
 ![img.png](img.png)
 
-image1 - Simon J.D.Prince. Reinforce description from Understanding Deep Learning. October 23, 2023 
+image1 - Simon J.D.Prince. Understanding Deep Learning. October 23, 2023 
 
 THe initial implementation of REINFORCE used in this experiment was obtained from: 
 https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#implementing-the-simplest-policy-gradient
